@@ -71,3 +71,45 @@ Governança: Garante que as políticas e regulamentações sejam seguidas, propo
 Benefícios da Capacidade de Gerenciamento na Nuvem:
 
 Capacidade de Gerenciamento: Facilita a administração dos recursos e serviços, com ferramentas integradas para monitoramento, automação e manutenção. Isso permite uma gestão mais eficiente e proativa, reduzindo a carga de trabalho e os custos operacionais.
+
+
+Modelos de Serviço de Nuvem:
+Infraestrutura como Serviço (IaaS):
+
+Definição: Fornece infraestrutura básica de computação, como servidores virtuais, armazenamento e redes, sobre os quais você pode construir suas próprias soluções.
+
+Responsabilidade: O cliente gerencia aplicativos, dados, tempo de execução, middleware e sistema operacional, enquanto o provedor gerencia a virtualização, servidores, armazenamento e rede.
+
+Casos de Uso: Empresas que precisam de controle total sobre sua infraestrutura, incluindo startups que estão crescendo rapidamente e precisam escalar sua infraestrutura de TI.
+
+Plataforma como Serviço (PaaS):
+
+Definição: Oferece uma plataforma que permite aos desenvolvedores criar, testar e implantar aplicações sem lidar com a infraestrutura subjacente.
+
+Responsabilidade: O cliente gerencia aplicativos e dados, enquanto o provedor gerencia o tempo de execução, middleware, sistema operacional, virtualização, servidores, armazenamento e rede.
+
+Casos de Uso: Desenvolvedores que precisam se concentrar no código sem se preocupar com a manutenção da infraestrutura, como no desenvolvimento de aplicativos web e móveis.
+
+Software como Serviço (SaaS):
+
+Definição: Fornece aplicativos completos acessíveis pela internet, eliminando a necessidade de instalação e manutenção local.
+
+Responsabilidade: O provedor gerencia tudo, incluindo aplicativos, dados, tempo de execução, middleware, sistema operacional, virtualização, servidores, armazenamento e rede.
+
+Casos de Uso: Empresas que precisam acessar software pronto para uso, como ferramentas de CRM, e-mail e colaboração, sem a necessidade de gerenciar a infraestrutura subjacente.
+
+Modelo de Responsabilidade Compartilhada:
+Definição: Divide as responsabilidades de segurança e gerenciamento entre o provedor de nuvem e o cliente.
+
+IaaS: O cliente gerencia mais aspectos, incluindo aplicativos e sistemas operacionais.
+
+PaaS: O cliente gerencia apenas aplicativos e dados.
+
+SaaS: O provedor gerencia quase tudo, com o cliente se concentrando apenas no uso do aplicativo.
+
+Casos de Uso Apropriados para Cada Serviço de Nuvem:
+IaaS: Ideal para quando você precisa de controle total sobre os recursos de TI, personalização completa e escalabilidade conforme a necessidade.
+
+PaaS: Útil para desenvolvedores que querem se concentrar na criação e implantação de aplicativos sem gerenciar a infraestrutura subjacente.
+
+SaaS: Melhor para empresas que desejam usar software pronto para uso e que seja acessível pela internet, minimizando a sobrecarga de manutenção e gerenciamento.
